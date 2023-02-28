@@ -10,7 +10,7 @@ public class Main {
         // значения заведённых переменных. Ответ сохраняете в
         // новую переменную и выводите на экран
 
-        int ticketPrice =2897;
+        int ticketPrice =2075;
         int bunusMilesForTicketPrice = ticketPrice/20;
         System.out.println("Вы заработали "+ bunusMilesForTicketPrice + " бонусных миль");
     }
